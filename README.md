@@ -1,5 +1,3 @@
-# Stock-Market-Prediction
-
 # Project Overview
 
 In this project, we'll predict the price of the Nifty50 stock market index.
