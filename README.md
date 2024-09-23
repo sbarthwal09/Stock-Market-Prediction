@@ -12,7 +12,7 @@ File overview:
 
 ## Requirements
 
-* JupyerLab
+* JupyterLab
 * Python 3.8+
 * Python packages
     * pandas
